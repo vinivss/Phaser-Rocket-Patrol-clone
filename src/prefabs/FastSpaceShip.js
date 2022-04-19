@@ -2,7 +2,7 @@
 
 //lets hope that his fixes the github
 
-class FastSpaceship extends Phaser.GameObjects.Sprite
+class FastSpaceShip extends Phaser.GameObjects.Sprite
 {
     constructor(scene, x, y, texture, frame, pointValue)
     {
